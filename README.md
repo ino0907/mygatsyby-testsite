@@ -1,2 +1,3 @@
 # mygatsyby-testsite
-aa
+gatsbyのチュートリアルに沿った練習用リポジトリ
+それだけ
